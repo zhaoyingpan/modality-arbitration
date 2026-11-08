@@ -1,0 +1,13 @@
+__pycache__/
+.env
+.env.*
+!.env.example
+results/
+datasets
+datasets/
+tests/
+tmp/
+*.log
+*.pt
+!artifacts/mps/*.pt
+*toml
